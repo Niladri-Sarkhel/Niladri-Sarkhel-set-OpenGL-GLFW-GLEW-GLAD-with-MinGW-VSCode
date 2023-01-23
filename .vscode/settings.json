@@ -1,5 +1,0 @@
-{
-    "code-runner.executorMap": {
-        "cpp": "cd $dir && mingw32-make.exe"
-    }
-}
