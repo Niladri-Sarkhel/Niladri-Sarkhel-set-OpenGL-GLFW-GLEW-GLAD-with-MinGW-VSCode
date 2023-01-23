@@ -78,3 +78,11 @@ compile:
 run: 
 	./application.exe
 ```
+
+# COMPILE 
+
+go to the root directory of the project where the Makefile is located 
+
+then run the command 
+>   mingw32-make
+
